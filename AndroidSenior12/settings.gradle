@@ -1,0 +1,2 @@
+include ':app', ':myokhttplibrary'
+rootProject.name='AndroidSenior12'
